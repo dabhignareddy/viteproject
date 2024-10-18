@@ -39,9 +39,10 @@ import React from 'react'
 function App() {
   return (
     <>
-    <h1>Login page</h1>
-    <input type='text' placeholder='enter name'/>
-    <input type='text' placeholder='enter email'/>
+    <h1>BTS Army</h1>
+    
+    <input type='text' placeholder='Bias name'/>
+    <input type='text' placeholder='Bias wrecker name'/>
     <input type='submit' value='submit'/>
 
     </>
